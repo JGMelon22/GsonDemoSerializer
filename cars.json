@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Camaro SS",
+    "maxSpeed": 250,
+    "releaseYear": 2011,
+    "brand": "Chevrolet"
+  },
+  {
+    "name": "Mustang GT500",
+    "maxSpeed": 275,
+    "releaseYear": 2022,
+    "brand": "Ford"
+  },
+  {
+    "name": "Camry XSE",
+    "maxSpeed": 160,
+    "releaseYear": 2023,
+    "brand": "Toyota"
+  },
+  {
+    "name": "Silverado LTZ",
+    "maxSpeed": 180,
+    "releaseYear": 2021,
+    "brand": "Chevrolet"
+  },
+  {
+    "name": "Civic SI",
+    "maxSpeed": 155,
+    "releaseYear": 2024,
+    "brand": "Honda"
+  },
+  {
+    "name": "Explorer Limited",
+    "maxSpeed": 170,
+    "releaseYear": 2022,
+    "brand": "Ford"
+  },
+  {
+    "name": "Wrangler Rubicon",
+    "maxSpeed": 140,
+    "releaseYear": 2023,
+    "brand": "Jeep"
+  },
+  {
+    "name": "Accord Touring",
+    "maxSpeed": 165,
+    "releaseYear": 2022,
+    "brand": "Honda"
+  },
+  {
+    "name": "F-150 Raptor",
+    "maxSpeed": 190,
+    "releaseYear": 2021,
+    "brand": "Ford"
+  },
+  {
+    "name": "Rav4 Hybrid",
+    "maxSpeed": 150,
+    "releaseYear": 2023,
+    "brand": "Toyota"
+  },
+  {
+    "name": "Mustang Mach-E",
+    "maxSpeed": 200,
+    "releaseYear": 2024,
+    "brand": "Ford"
+  },
+  {
+    "name": "Grand Cherokee Laredo",
+    "maxSpeed": 175,
+    "releaseYear": 2022,
+    "brand": "Jeep"
+  }
+]
