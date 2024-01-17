@@ -8,6 +8,7 @@ import java.util.ArrayList;
 
 public class SerielizerHelper {
     public String serializeMethod() {
+
         Car camaro = new Car("Camaro SS", 250, 2011, "Chevrolet");
         Car mustang = new Car("Mustang GT500", 275, 2022, "Ford");
         Car camry = new Car("Camry XSE", 160, 2023, "Toyota");
